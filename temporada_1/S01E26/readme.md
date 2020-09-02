@@ -5,7 +5,11 @@
 Vídeo disponible en [Domótica Fácil](http://https://www.youtube.com/c/domoticafacilconjota "Domótica Fácil"): [youtube.com](https://www.youtube.com/watch?v=Es6H_ZGpPHQ "youtube.com")
 
 
-**Códigos de idioma aceptados por Alexa**
+**Códigos de idioma aceptados por Alexa** 
+
+https://www.home-assistant.io/integrations/alexa.smart_home/#alexa-display-categories
+Mirar en Alexa locale 
+https://developer.amazon.com/docs/alexa/device-apis/list-of-interfaces.html
     
     es-ES Spanish (ES)
     
@@ -23,7 +27,7 @@ Vídeo disponible en [Domótica Fácil](http://https://www.youtube.com/c/domotic
     
     en-US English (US)
     
-    es-US Spanish (US)
+    es-US Spanish (US) este no lo acepta
     
     fr-CA French (CA)
     
